@@ -7,7 +7,7 @@ export default function Form(props) {
     <form>
       <h3>{movie.name}</h3>
       <button type="button"> - </button>
-      <button type="button"> 0 </button>
+      <button> 0 </button>
       <button type="button"> + </button>
     </form>
   );
